@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "Jpush1227"
-  s.version      = "0.0.4"
+  s.version      = "0.0.5"
   s.summary      = "testJpush Jpush1227."
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ testJpush Jpush1227 基础的消息推送框架
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files  = "ViewController.m", "ViewController.h"
+  s.source_files  = "XAspect-JPushAppDelegate.m"
  # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"
