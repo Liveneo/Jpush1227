@@ -1,7 +1,7 @@
 # Jpush1227
 
 1、新建工程，上传项目到github，并创建license文件
-2、打开终端 CD到当前项目根目录下，在此目录下初始化一个Podspec文件，
+2、打开终端 CD到当前项目根目录下，在此目录下初始化一个Podspec文件
 $pod spec create XXXX
 3、编辑该文件，将相关项目的配置信息进行编辑
 $vim XXXX.podspec
